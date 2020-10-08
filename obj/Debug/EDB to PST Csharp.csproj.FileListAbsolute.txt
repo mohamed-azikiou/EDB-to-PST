@@ -1,0 +1,16 @@
+C:\Users\pc\source\repos\EDB to PST Csharp\bin\Debug\EDB to PST Csharp.exe.config
+C:\Users\pc\source\repos\EDB to PST Csharp\bin\Debug\EDB to PST Csharp.exe
+C:\Users\pc\source\repos\EDB to PST Csharp\bin\Debug\EDB to PST Csharp.pdb
+C:\Users\pc\source\repos\EDB to PST Csharp\obj\Debug\EDB to PST Csharp.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\EDB to PST Csharp\obj\Debug\MainWindow.g.cs
+C:\Users\pc\source\repos\EDB to PST Csharp\obj\Debug\App.g.cs
+C:\Users\pc\source\repos\EDB to PST Csharp\obj\Debug\EDB to PST Csharp_MarkupCompile.cache
+C:\Users\pc\source\repos\EDB to PST Csharp\obj\Debug\EDB to PST Csharp_MarkupCompile.lref
+C:\Users\pc\source\repos\EDB to PST Csharp\obj\Debug\MainWindow.baml
+C:\Users\pc\source\repos\EDB to PST Csharp\obj\Debug\EDB to PST Csharp.g.resources
+C:\Users\pc\source\repos\EDB to PST Csharp\obj\Debug\EDB_to_PST_Csharp.Properties.Resources.resources
+C:\Users\pc\source\repos\EDB to PST Csharp\obj\Debug\EDB to PST Csharp.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\EDB to PST Csharp\obj\Debug\EDB to PST Csharp.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\EDB to PST Csharp\obj\Debug\EDB to PST Csharp.exe
+C:\Users\pc\source\repos\EDB to PST Csharp\obj\Debug\EDB to PST Csharp.pdb
+C:\Users\pc\source\repos\EDB to PST Csharp\obj\Debug\GeneratedInternalTypeHelper.g.cs
